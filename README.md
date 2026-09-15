@@ -1,6 +1,6 @@
 # Kardashian Coordinate Game
 ## By: Sebastian Joaquin N. Ydia
-### Ver 1.3 _(09/12/2026)_
+### Ver 1.3 _(09/12/2026)_ (GameVer3Ydia.py)
 
 ---
 Important: Can only run in windows, sorry.
@@ -16,3 +16,4 @@ Important: Can only run in windows, sorry.
 - If you are using Pycharm, you must right click the file or code background and go to More Run/Debug , Modify run Configurations, and then Go to More Options, Finally, check the Emulate Terminal in Output Console checkbox.
 - You can run your game now! Have fun!(or not please.)
 - ONLY WORKS IN WINDOWS
+- MOST RECENT ONE IS WITH THE HIGHEST NUMBER.
