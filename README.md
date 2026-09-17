@@ -1,6 +1,6 @@
 # Kardashian Coordinate Game
 ## By: Sebastian Joaquin N. Ydia
-### Ver 1.3 _(09/12/2026)_ (GameVer3Ydia.py)
+### Ver 1.4 _(09/17/2026)_ (GameVer3Ydia.py)
 
 ---
 Important: Can only run in windows, sorry.
